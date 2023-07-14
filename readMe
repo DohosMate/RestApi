@@ -1,2 +1,5 @@
 https://www.youtube.com/watch?v=ALpA6LQHSgI&list=PLDvInfB8ki_IuB1yuDEZMaCmau50qrVzD&index=6
 
+pipenv install -r requirements.txt
+python .\main.py
+python .\test.py
